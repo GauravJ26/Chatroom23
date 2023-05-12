@@ -1,0 +1,5 @@
+1. building chat app using node + react 
+2. setup nodejs, express + dependencies installation 
+3. using chatengine.io for setup of auth
+4. users date is stored in chatengine.io/projects 
+5. 
